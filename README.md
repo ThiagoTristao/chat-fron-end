@@ -1,5 +1,5 @@
 ## chat - FrontEnd
-<img src="https://freesvg.org/img/1538298822.png" />
+<img src="https://freesvg.org/img/1538298822.png" width="300" height="150"/>
     
 ## Instal dependencies:
   First install the dependencies
